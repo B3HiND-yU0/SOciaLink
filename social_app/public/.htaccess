@@ -1,0 +1,2 @@
+# Block PHP execution inside uploads (extra safety)
+Options -Indexes
